@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rekomendasi-daftar-10-situs-slot-gacor-gampang-menang-maxwin",
+        "command": "rekomendasi-daftar-10-situs-slot-gacor-gampang-menang-maxwin:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rekomendasi-daftar-10-situs-slot-gacor-gampang-menang-maxwin",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rekomendasi-daftar-10-situs-slot-gacor-gampang-menang-maxwin:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
